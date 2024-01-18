@@ -36,11 +36,12 @@ name: Christopher Rosend
 author: Christopher Rosend
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
