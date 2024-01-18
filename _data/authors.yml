@@ -1,0 +1,16 @@
+# /_data/authors.yml
+
+Christopher Rosend:
+  name        : "Christopher Rosend"
+  bio         : "Undergraduate at Virginia Tech"
+  avatar      : "/assets/images/goodpicofme.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cmrosendwork@yahoo.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
