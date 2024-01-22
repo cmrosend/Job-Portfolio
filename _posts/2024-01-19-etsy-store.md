@@ -1,3 +1,13 @@
+---
+layout: single
+title: "Etsy Store"
+author: Christopher Rosend
+author_profile: true
+read_time: true
+share: true
+related: true
+---
+
 What is it?
 
 This was a project that I started over the summer of the pandemic to keep myself busy and to figure out how to use my new 3D printer. I named it MarechiStudio after something I read in a comic; it means the irresistible studio essentially. I used this store to design my own unique products and to learn the basics of 3D printing.

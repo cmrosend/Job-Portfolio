@@ -1,3 +1,14 @@
+---
+layout: single
+title: "Large Gantry"
+author: Christopher Rosend
+author_profile: true
+read_time: true
+share: true
+related: true
+classes: wide
+---
+
 What is it?
 
 This was what I would consider to be my first official engineering experience. The project was started by a graduate student named Daniel who was working for a company that needed to print large polypropylene objects. Dr. Williams, the head of the DREAMS Lab which is a lab specializing in research on additive manufacturing, tasked me and two others onto the project of constructing a large gantry to print polypropylene. The body was already built so we mainly had to figure out how to wire the electronics and set up the feed system.

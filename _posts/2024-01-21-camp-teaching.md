@@ -1,3 +1,13 @@
+---
+layout: single
+title: "Camp Teaching"
+author: Christopher Rosend
+author_profile: true
+read_time: true
+share: true
+related: true
+---
+
 What is it?
 
 This was a program I did back in sophomore year of college where I would go to a camp and offer to give a talk about 3D printing to interested camp students. I would talk about how FFF printing works and have some kids ask questions, then I would have them draw out a design and print it for them. I really liked showing the kids that anything they could draw could be made and I wanted to try and inspire them a little bit.

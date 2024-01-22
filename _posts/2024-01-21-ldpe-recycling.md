@@ -1,3 +1,13 @@
+---
+layout: single
+title: "LDPE Recycling"
+author: Christopher Rosend
+author_profile: true
+read_time: true
+share: true
+related: true
+---
+
 What is it?
 
 This is a research project that I personally started in the DREAMS Lab. It involves the recycling of used low density polyethylene, plastic bags, into a filament usable within FFF printers. The idea stemmed from the “bag of bags” that everyone has in their home since mine was getting unruly, and the fact that polyethylene terephthalate (PET) is already a commercial printing material. After doing research, it was determined that while PE is a hard material to use due to its semi-crystalline nature, it is still something that should be possible and that the project is worth a shot. The DREAMS Lab provided us with a shredder, filament machine, and guidance through our GTA Henry.

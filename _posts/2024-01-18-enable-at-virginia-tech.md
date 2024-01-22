@@ -6,6 +6,10 @@ author_profile: true
 read_time: true
 share: true
 related: true
+classes: wide
+header: 
+    image: /assets/images/enable-banner.jpg
+    teaser: /assets/images/vt-cro-teaser.jpg
 ---
 
 
