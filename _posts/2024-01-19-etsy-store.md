@@ -4,7 +4,6 @@ title: "Etsy Store"
 author: Christopher Rosend
 author_profile: true
 read_time: true
-share: true
 related: true
 ---
 

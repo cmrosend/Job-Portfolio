@@ -4,9 +4,11 @@ title: "Large Gantry"
 author: Christopher Rosend
 author_profile: true
 read_time: true
-share: true
 related: true
 classes: wide
+header: 
+    image: /assets/images/ldpe-recycling/dreams-banner.png
+    teaser: /assets/images/large-gantry/large-gantry.jpg
 ---
 
 What is it?

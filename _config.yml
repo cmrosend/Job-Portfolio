@@ -31,13 +31,14 @@ github_username:  cmrosend
 
 
 #New additions to the theme
-logo: "/assets/images/portfolio-logo.png"
+logo: "/assets/images/misc/portfolio-logo.png"
 name: Christopher Rosend
 author: Christopher Rosend
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "contrast" # "default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+include: ["_pages"] 
 
 plugins:
   - jekyll-feed

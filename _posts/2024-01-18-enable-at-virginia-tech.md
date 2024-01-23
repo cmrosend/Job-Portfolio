@@ -3,13 +3,12 @@ layout: single
 title: "e-NABLE at Virginia Tech"
 author: Christopher Rosend
 author_profile: true
-read_time: true
-share: true
+#read_time: true
 related: true
 classes: wide
 header: 
-    image: /assets/images/enable-banner.jpg
-    teaser: /assets/images/vt-cro-teaser.jpg
+    image: /assets/images/enable/banner-enable.png
+    teaser: /assets/images/enable/enable.jpg
 ---
 
 

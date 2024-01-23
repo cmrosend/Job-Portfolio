@@ -4,8 +4,11 @@ title: "LDPE Recycling"
 author: Christopher Rosend
 author_profile: true
 read_time: true
-share: true
 related: true
+classes: wide
+header: 
+    image: /assets/images/ldpe-recycling/dreams-banner.png
+    teaser: /assets/images/ldpe-recycling/dreams-lab-filament-teaser.jpg
 ---
 
 What is it?

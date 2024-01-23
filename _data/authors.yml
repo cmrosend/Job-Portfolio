@@ -3,7 +3,7 @@
 Christopher Rosend:
   name        : "Christopher Rosend"
   bio         : "Undergraduate at Virginia Tech"
-  avatar      : "/assets/images/goodpicofme.jpg"
+  avatar      : "/assets/images/misc/goodpicofme.jpg"
   links:
     - label: "Email"
       icon: "fa fa-fw fa-envelope-square"

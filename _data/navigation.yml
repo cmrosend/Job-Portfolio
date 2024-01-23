@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "About Me"
-    url: https://youtube.com
+  - title: "Works"
+    url: /posts-page/
+  - title: "About"
+    url: /about/
   - title: "Contact"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
