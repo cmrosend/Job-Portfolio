@@ -23,7 +23,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "e-NABLE"
     excerpt: "Developing low-cost prosthetics and medical devices for the local community using 3D printing. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/enable-at-virginia-tech.html"
+    url: "/2024/01/18/enable-at-virginia-tech.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -31,42 +31,42 @@ feature_row:
     alt: "placeholder image 2"
     title: "LDPE Recycling (DREAMS Lab)"
     excerpt: "Taking low density polyethylene, plastic bags, through the process of filament fabrication while performing strength tests and finding potential applications."
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "https://cmrosend.github.io/Job-Portfolio/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

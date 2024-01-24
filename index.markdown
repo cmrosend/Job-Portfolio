@@ -14,7 +14,7 @@ excerpt: "Christopher Rosend │ Undergraduate Mechanical Engineer"
 intro: 
   - excerpt: '<p style="font-size:25px;"> Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works </p>
 
-  <p><a href="/Job-Portfolio/about/" class="btn btn--success btn--x-large">About Me ➞</a>'
+  <p><a href="/Job-Portfolio/about/" class="btn btn--primary btn--x-large">About Me ➞</a>'
   #<h1 style="font-size:100px; font-family: monaco"> Works </h1>
 
 feature_row:
@@ -43,20 +43,18 @@ feature_row:
     btn_class: "btn--info"
   
 feature_row2:
-  - title: '<p style="font-size:50px;"> Recent Works </p>
-            <p style="font-size:25px;"> dfgdfgdf </p>'
-    url: /posts-page/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - title: '<p style="font-size:50px; margin: 0px"> Recent Works </p>'
+
 
 feature_row4:
   - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     #alt: "placeholder image 2"
-    title: "Take a look at the rest!"
-    #excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: /posts-page/
-    btn_label: "Read More"
-    btn_class: "btn--info"
+    #title: "Take a look at the rest!"
+    excerpt: '<a href="/Job-Portfolio/posts-page/" class="btn btn--primary btn--x-large">Browse all works ➞</a>'
+    #url: /posts-page/
+    #btn_label: "Browse all works"
+    #btn_class: "btn--info"
+
 ---
 
 {% include feature_row id="intro" type="justify" %}
@@ -65,9 +63,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row4" type="center" %}
-
-
+{% include feature_row id="feature_row4" type="justify" %}
 
 
 
