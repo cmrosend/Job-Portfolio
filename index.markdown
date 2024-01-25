@@ -14,7 +14,7 @@ excerpt: "Christopher Rosend │ Undergraduate Mechanical Engineer"
 intro: 
   - excerpt: '<p style="font-size:25px;"> Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works Take a look below to see my most recent works </p>
 
-  <p><a href="/Job-Portfolio/about/" class="btn btn--primary btn--x-large">About Me ➞</a>'
+  <p><a href="/about/" class="btn btn--primary btn--x-large">About Me ➞</a>'
   #<h1 style="font-size:100px; font-family: monaco"> Works </h1>
 
 feature_row:
@@ -50,7 +50,7 @@ feature_row4:
   - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     #alt: "placeholder image 2"
     #title: "Take a look at the rest!"
-    excerpt: '<a href="/Job-Portfolio/posts-page/" class="btn btn--primary btn--x-large">Browse all works ➞</a>'
+    excerpt: '<a href="/posts-page/" class="btn btn--primary btn--x-large">Browse all works ➞</a>'
     #url: /posts-page/
     #btn_label: "Browse all works"
     #btn_class: "btn--info"
