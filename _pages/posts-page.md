@@ -31,42 +31,49 @@ feature_row:
     alt: "placeholder image 2"
     title: "LDPE Recycling (DREAMS Lab)"
     excerpt: "Taking low density polyethylene, plastic bags, through the process of filament fabrication while performing strength tests and finding potential applications."
-    url: "/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/21/ldpe-recycling.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/vt-cro/vt cro.jpg
     title: "VT CRO - IGVC"
     excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "/2024/01/18/rapid-prototyping.html"
+    url: "/2024/01/21/vt-cro.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
-  - image_path: /assets/images/vt-cro/vt cro.jpg
-    title: "VT CRO - IGVC"
-    excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
+  - image_path: /assets/images/large-gantry/large gantry.jpg
+    title: "Large Gantry (DREAMS Lab)"
+    excerpt: "Creation of a 10×10 gantry to print polypropylene, and my introduction to the DREAMS Lab"
+    url: "/2024/01/21/large-gantry.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/global-collab/adam-opel.jpg
+    title: "Global Collaborative Engineering"
+    excerpt: "Class about working together with students from different countries on the common goal of improving the Chevrolet EN-V 2.0. "
+    url: "/2024/01/21/global-collab.html"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/rapid-prototyping/rapid-prototyping.jpg
+    title: "Rapid Prototyping"
+    excerpt: "A class about everything related to Additive Manufacturing including: processes, material science, CAD models, and impact on society."
     url: "/2024/01/18/rapid-prototyping.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/vt-cro/vt cro.jpg
-    title: "VT CRO - IGVC"
-    excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "/2024/01/18/rapid-prototyping.html"
+  - image_path: /assets/images/etsy-store/marechistudio.webp
+    title: "MarechiStudio - Etsy Store"
+    excerpt: "Personal passion project to further understanding of 3D printing and assemblies. "
+    url: "/2024/01/19/etsy-store.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/vt-cro/vt cro.jpg
-    title: "VT CRO - IGVC"
-    excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "/2024/01/18/rapid-prototyping.html"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-  - image_path: /assets/images/vt-cro/vt cro.jpg
-    title: "VT CRO - IGVC"
-    excerpt: "Senior design project that involves the creation of an autonomous line following robot. "
-    url: "/2024/01/18/rapid-prototyping.html"
+  - image_path: /assets/images/camp-teaching/camp-teaching.jpg
+    title: "Teaching 3D Printing to Camp Kids"
+    excerpt: "Showing elementary to middle schoolers how 3D printing works and letting them design their own piece "
+    url: "/2024/01/21/camp-teaching.html"
     btn_label: "Read More"
     btn_class: "btn--primary"
 

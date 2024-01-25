@@ -1,13 +1,19 @@
 ---
 layout: single
-title: "Global Collaboration"
+title: "Global Collaborative Engineering"
 author: Christopher Rosend
 author_profile: true
-read_time: true
 related: true
 header: 
-    image: /assets/images/adamopel4.jpg
-    teaser: /assets/images/adamopel2.jpg
+    image: /assets/images/global-collab/global-collab-banner-white.png
+    teaser: /assets/images/global-collab/adamopel2.jpg
+classes: wide
 ---
 
-blah blah
+## What is it?
+
+
+## What have I done?
+
+
+## What have I learned from this?

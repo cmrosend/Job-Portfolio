@@ -3,18 +3,48 @@ layout: single
 title: "Large Gantry"
 author: Christopher Rosend
 author_profile: true
-read_time: true
 related: true
 classes: wide
 header: 
     image: /assets/images/ldpe-recycling/dreams-banner.png
     teaser: /assets/images/large-gantry/large-gantry.jpg
----
 
-What is it?
+gallery:
+  - url: /assets/images/large-gantry/cable-management.jpg
+    image_path: /assets/images/large-gantry/cable-management.jpg
+    alt: "Shredder"
+    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+
+  - url: /assets/images/large-gantry/cooling-system.jpg
+    image_path: /assets/images/large-gantry/cooling-system.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+  - url: /assets/images/large-gantry/endstops.jpg
+    image_path: /assets/images/large-gantry/endstops.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+
+  - url: /assets/images/large-gantry/pellet-feed.jpg
+    image_path: /assets/images/large-gantry/pellet-feed.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+
+  - url: /assets/images/large-gantry/troubleshooting-movement.jpg
+    image_path: /assets/images/large-gantry/troubleshooting-movement.jpg
+    title: "Image 2 title caption"
+
+  - url: /assets/images/large-gantry/duet-working.jpg
+    image_path: /assets/images/large-gantry/duet-working.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+
+---
+## What is it?
 
 This was what I would consider to be my first official engineering experience. The project was started by a graduate student named Daniel who was working for a company that needed to print large polypropylene objects. Dr. Williams, the head of the DREAMS Lab which is a lab specializing in research on additive manufacturing, tasked me and two others onto the project of constructing a large gantry to print polypropylene. The body was already built so we mainly had to figure out how to wire the electronics and set up the feed system.
-What have I done?
+
+## What have I done?
 
 Because this was one of my first foray into actual engineering work, a lot of my work involved the design of systems and learning the more complicated stuff from my team members who have already had experience in the field. I worked on three things, the design of the pellet feed system, the implementation of the cooling system, and the implementation of the endstop, all of which can be seen in the pictures below.
 The endstops were the first thing worked on since we wanted to get the gantry moving, so they were designed to easily slot into the aluminum bars and also be easily movable so we can quickly correct any mistakes. There were 6 total, 4 for the y-axis and 2 for the x-axis. They were designed in Solidworks and 3D printed to allow for an easy fit for the endstop.
@@ -26,15 +56,17 @@ Nightmare cable management
 Issues with the cooling system
 Troubleshooting the movement of the arm
 Design of the endstops
-What have I learned from this?
 
-Experience
+{% include gallery caption="Different parts of the process." %}
 
-    Familiarity with the Duet 3D motor controllers
-    Ability to test if components are working using techniques and tools
-    General troubleshooting experience
+## What have I learned from this?
 
-Concepts
+<ins>Experience</ins>
 
-    Ask many many questions for things you don’t understand, there is no other way to learn
-    You have to rely on people who know the things you don’t
+* Familiarity with the Duet 3D motor controllers
+* Ability to test if components are working using techniques and tools
+* General troubleshooting experience
+
+<ins>Concepts</ins>
+* Ask many many questions for things you don’t understand, there is no other way to learn
+* You have to rely on people who know the things you don’t

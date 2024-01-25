@@ -3,14 +3,27 @@ layout: single
 title: "e-NABLE at Virginia Tech"
 author: Christopher Rosend
 author_profile: true
-#read_time: true
 related: true
 classes: wide
 header: 
     image: /assets/images/enable/banner-enable.png
     teaser: /assets/images/enable/enable.jpg
----
 
+gallery:
+  - url: /assets/images/enable/hokie-a-day.jpg
+    image_path: /assets/images/enable/hokie-a-day.jpg
+    alt: "Hokie a day"
+    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+  - url: /assets/images/enable/holly-plans.webp
+    image_path: /assets/images/enable/holly-plans.webp
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/enable/hands.jpg
+    image_path: /assets/images/enable/hands.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+    
+---
 
 ## What is it?
 
@@ -29,8 +42,25 @@ I have been part of e-NABLE at Virginia Tech for 3 semesters and have become Chi
 5. Working with first-years and teaching them sustainable design principles, ensuring they establish and maintain semester goals, and providing assistance when it comes to next steps.
 
 Outside of my direct work, the teams I supervise include:
+
 TTAC: A 7 person team dedicated to making assistive devices for the community, such as key guards and maps for the blind.
 
 Static Team: An 8 person team dedicated to creating and uploading prosthetic devices to the e-NABLE Hub.
 
-The Maya Team: A 13 person team dedicated to enhancing Maya’s daily life by creating devices that give her exercise and allow her family to interact with her better. Currently, they are working on a bike that gets Maya to exercise as she rides
+The Mya Team: A 13 person team dedicated to enhancing Maya’s daily life by creating devices that give her exercise and allow her family to interact with her better. Currently, they are working on a bike that gets Maya to exercise as she rides
+
+{% include gallery layout="half" caption="Various works I have been a part of." %}
+
+
+## What have I learned from this?
+
+<ins>Experience</ins>
+
+* Designing for 3D printing using Solidworks
+* Designing while keeping the user in mind
+* Leadership skills such as: Delegation, Coaching, Time management
+
+<ins>Concepts</ins>
+
+* The importance of having something to show each week
+* That leadership is about promoting comradery within the team you lead and acting as a rock that they can rely on
