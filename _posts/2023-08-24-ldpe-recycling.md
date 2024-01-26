@@ -8,42 +8,43 @@ classes: wide
 header: 
     image: /assets/images/ldpe-recycling/dreams-banner.png
     teaser: /assets/images/ldpe-recycling/dreams-lab-filament-teaser.jpg
+show_date: true 
 
 gallery:
   - url: /assets/images/ldpe-recycling/shredder.jpg
     image_path: /assets/images/ldpe-recycling/shredder.jpg
     alt: "Shredder"
-    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+    title: "This is the shredder that I used to shred the failed prints"
 
   - url: /assets/images/ldpe-recycling/bag-progress.jpg
     image_path: /assets/images/ldpe-recycling/bag-progress.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Melted Bag and glove"
+    title: "After testing the tensile strength of folded bags, the process needed to be changed"
 
   - url: /assets/images/ldpe-recycling/filament-test.jpg
     image_path: /assets/images/ldpe-recycling/filament-test.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Filament test"
+    title: "Printing with the first roll of filament made from recycled PLA"
 
   - url: /assets/images/ldpe-recycling/filabot.jpg
     image_path: /assets/images/ldpe-recycling/filabot.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Filabot"
+    title: "The Filabot, which is being used to make both the PLA and PE filament"
 
   - url: /assets/images/ldpe-recycling/failed-prints.jpg
     image_path: /assets/images/ldpe-recycling/failed-prints.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Failed prints"
+    title: "The prints collected to be recycled so that I can learn the process of filament making"
 
   - url: /assets/images/ldpe-recycling/melted-bags.jpg
     image_path: /assets/images/ldpe-recycling/melted-bags.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Melted Bags"
+    title: "Differences between packed and unpacked bags when melted"
 
   - url: /assets/images/ldpe-recycling/results.jpg
     image_path: /assets/images/ldpe-recycling/results.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Result prints"
+    title: "Prints made with the first roll of filament"
 
 ---
 

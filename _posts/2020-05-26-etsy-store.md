@@ -8,6 +8,8 @@ classes: wide
 header: 
     image: /assets/images/etsy-store/storefront.jpg
     teaser: /assets/images/etsy-store/marechistudio.webp
+show_date: true 
+
 
 gallery:
   - url: /assets/images/etsy-store/house.jpg

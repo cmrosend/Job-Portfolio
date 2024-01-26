@@ -8,6 +8,7 @@ classes: wide
 header: 
     image: /assets/images/camp-teaching/camp-banner.png
     teaser: /assets/images/camp-teaching/
+show_date: true 
 
 gallery:
   - url: /assets/images/camp-teaching/kids-playing.jpg

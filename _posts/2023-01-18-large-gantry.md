@@ -8,36 +8,38 @@ classes: wide
 header: 
     image: /assets/images/ldpe-recycling/dreams-banner.png
     teaser: /assets/images/large-gantry/large-gantry.jpg
+show_date: true 
 
 gallery:
   - url: /assets/images/large-gantry/cable-management.jpg
     image_path: /assets/images/large-gantry/cable-management.jpg
-    alt: "Shredder"
-    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+    alt: "Cables"
+    title: "Attempting to manage the cables ontop of a 10 foot printer, a bit of a nightmare"
 
   - url: /assets/images/large-gantry/cooling-system.jpg
     image_path: /assets/images/large-gantry/cooling-system.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Cooling issues"
+    title: "The cooling system that start to have issues"
 
   - url: /assets/images/large-gantry/endstops.jpg
     image_path: /assets/images/large-gantry/endstops.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Endstops"
+    title: "Endstops that were designed and printed by us"
 
   - url: /assets/images/large-gantry/pellet-feed.jpg
     image_path: /assets/images/large-gantry/pellet-feed.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Pellet feed"
+    title: "Preliminary testing on the pellet feed system, working on getting them up 10 feet to the top with a vaccuum"
 
   - url: /assets/images/large-gantry/troubleshooting-movement.jpg
     image_path: /assets/images/large-gantry/troubleshooting-movement.jpg
-    title: "Image 2 title caption"
+    alt: "Movement troubleshooting"
+    title: "Moving the printer head around using basic G-code commands"
 
   - url: /assets/images/large-gantry/duet-working.jpg
     image_path: /assets/images/large-gantry/duet-working.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Duet testing"
+    title: "The first step in making the gantry, getting the motors to connect to the motor controllers"
 
 ---
 ## What is it?

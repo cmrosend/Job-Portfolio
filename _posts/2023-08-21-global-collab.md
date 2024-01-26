@@ -8,6 +8,8 @@ header:
     image: /assets/images/global-collab/global-collab-banner-white.png
     teaser: /assets/images/global-collab/adamopel2.jpg
 classes: wide
+show_date: true 
+
 ---
 
 ## What is it?

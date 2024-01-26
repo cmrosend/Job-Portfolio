@@ -8,6 +8,7 @@ classes: wide
 header: 
     image: /assets/images/enable/banner-enable.png
     teaser: /assets/images/enable/enable.jpg
+show_date: true 
 
 gallery:
   - url: /assets/images/enable/hokie-a-day.jpg
@@ -16,12 +17,12 @@ gallery:
     title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
   - url: /assets/images/enable/holly-plans.webp
     image_path: /assets/images/enable/holly-plans.webp
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Holly plans"
+    title: "Current brainstorming to start working with Holly"
   - url: /assets/images/enable/hands.jpg
     image_path: /assets/images/enable/hands.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Training Hands"
+    title: "3D printed hands used to teach newcomers the basics of prosthetic building"
     
 ---
 
@@ -49,7 +50,7 @@ Static Team: An 8 person team dedicated to creating and uploading prosthetic dev
 
 The Mya Team: A 13 person team dedicated to enhancing Maya’s daily life by creating devices that give her exercise and allow her family to interact with her better. Currently, they are working on a bike that gets Maya to exercise as she rides
 
-{% include gallery layout="half" caption="Various works I have been a part of." %}
+{% include gallery layout="half" caption="Various parts of what I've done while a part of e-NABLE" %}
 
 
 ## What have I learned from this?

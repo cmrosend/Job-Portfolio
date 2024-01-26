@@ -7,21 +7,24 @@ related: true
 classes: wide
 header: 
     image: /assets/images/rapid-prototyping/rapidbanner.jpg
-    teaser: /assets/images/global-collab/adamopel2.jpg
+    teaser: /assets/images/rapid-prototyping/rapid-prototyping.jpg
+show_date: true 
 
 gallery:
   - url: /assets/images/rapid-prototyping/moai-head.jpg
     image_path: /assets/images/rapid-prototyping/moai-head.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Moai head"
+    title: "An example of AFDS from the MELD printworks trip"
+
   - url: /assets/images/rapid-prototyping/accuracy-test.jpg
     image_path: /assets/images/rapid-prototyping/accuracy-test.jpg
-    alt: "Hokie a day"
-    title: "fgsdF"
+    alt: "Accuracy test"
+    title: "Small assignment to design something that could test accuracy of a printer in only one orientation"
+
   - url: /assets/images/rapid-prototyping/pbf-printer.jpg
     image_path: /assets/images/rapid-prototyping/pbf-printer.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "PBF printer"
+    title: "A PBF printer that we were shown during one of the labs"
 
 ---
 
@@ -83,7 +86,7 @@ My next lab detailing how PBF parts are typically printed, what deformities they
 Lastly, I learned about DED (not done yet)
 For my final project I was paired with 3 other students and we chose to design realistic rock climbing holds. This was because they are extremely expensive; they are currently made 20-25 units at a time with injection molding. It was identified that removing the cost of the mold and using AM could speed up the creation process and drive the price way down.
 
-{% include gallery caption="Various works I have been a part of." %}
+{% include gallery caption="Different parts of the class." %}
 
 ## What have I learned from this?
 
