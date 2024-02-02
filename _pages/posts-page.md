@@ -5,8 +5,8 @@ permalink: /posts-page/
 intro: 
   - excerpt: '<br> 
   
-  <h1 style="font-size:100px; font-family: monaco; margin: -10px "> &nbsp;Works </h1>
-  <h1 style="font-size:50px; font-family: monaco; margin: 10px"> Curated combination of classes, clubs, and commitments </h1>'
+  <h1 style="font-size:100px; margin: -10px "> &nbsp;Works </h1>
+  <h1 style="font-size:45px; margin: 10px"> Curated combination of classes, clubs, and commitments </h1>'
 
 feature_row:
   - image_path: assets/images/enable/enable.jpg
