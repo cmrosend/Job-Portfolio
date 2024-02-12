@@ -24,9 +24,9 @@
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
 
-          {% if f.excerpt %}
+          {% if f.summary %}
             <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
+              {{ f.summary | markdownify }}
             </div>
           {% endif %}
 
