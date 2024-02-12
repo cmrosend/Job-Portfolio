@@ -21,11 +21,13 @@ gallery:
     alt: "Accuracy test"
     title: "Small assignment to design something that could test accuracy of a printer in only one orientation"
 
-  - url: /assets/images/rapid-prototyping/pbf-printer.jpg
-    image_path: /assets/images/rapid-prototyping/pbf-printer.jpg
-    alt: "PBF printer"
-    title: "A PBF printer that we were shown during one of the labs"
+  - url: /assets/images/rapid-prototyping/rock.jpg
+    image_path: /assets/images/rapid-prototyping/rock.jpg
+    title: "The print of the final project"
 
+  - url: /assets/images/rapid-prototyping/rock-testing.jpg
+    image_path: /assets/images/rapid-prototyping/rock-testing.jpg
+    title: "How we tested our rock in practice"
 ---
 
 
@@ -77,16 +79,15 @@ table, th, td {
   </tr>
 </table>
 
-The second half of the class is described as being “choose your own adventure”, where you choose 3 labs to do out of a selection of 15, as well as a final project. For my labs, I chose to learn about DED, PBF, and a new type of printing called Additive Friction Stir Deposition.
+The second half of the class is described as being “choose your own adventure”, where you choose 3 labs to do out of a selection of 15, as well as a final project. For my labs, I chose to learn about Directed Energy Deposistion, Powder Bed Fusion, and a new type of printing called Additive Friction Stir Deposition. The labs were eye opening on how new this technology really is and all of the struggles that come along with utlizing it. DED especially was hard to work with, but AFSD seemed really promising despite some questions about the structural integrity of the parts.
 
-For AFSD, we took a tour to MELD Printworks which I can’t go into detail for, but I learned a lot about how a typical 3D printing company operates and what goes into analyzing if a part is good for use or not.
+For my final project I was paired with 3 other students and we chose to design realistic rock climbing holds. This was because they are extremely expensive; they are currently made 20-25 units at a time with injection molding. It was identified that removing the cost of the mold and using AM could speed up the creation process and drive the price way down. To achieve this, we scanned a rock face and imported it into nTop so that we could perform strucutural analysis and improve it through the use of specific infill settings. Then, we printed it and tested it in field to much success. Our end decision was that it would be cost effective in the long run for a gym to buy a printer and make their own holds, but some things would still have to be tested like lifetime of the hold and if it retains moisture.
 
-My next lab detailing how PBF parts are typically printed, what deformities they could encounter, and how best to avoid then. We talked specifically about coalescence and crystallization.
+<video width="900" height="600" controls muted>
+  <source src="/assets/images/rapid-prototyping/eyobel-pullup.mp4" type="video/mp4">
+</video>
 
-Lastly, I learned about DED (not done yet)
-For my final project I was paired with 3 other students and we chose to design realistic rock climbing holds. This was because they are extremely expensive; they are currently made 20-25 units at a time with injection molding. It was identified that removing the cost of the mold and using AM could speed up the creation process and drive the price way down.
-
-{% include gallery caption="Different parts of the class." %}
+{% include gallery layout="half" caption="Different parts of the class, read more in captions." %}
 
 ## What have I learned from this?
 

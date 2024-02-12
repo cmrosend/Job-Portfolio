@@ -11,18 +11,22 @@ header:
 show_date: true 
 
 gallery:
-  - url: /assets/images/enable/hokie-a-day.jpg
-    image_path: /assets/images/enable/hokie-a-day.jpg
-    alt: "Hokie a day"
-    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
-  - url: /assets/images/enable/holly-plans.webp
-    image_path: /assets/images/enable/holly-plans.webp
+  - url: /assets/images/enable/new-dog-leg.jpg
+    image_path: /assets/images/enable/new-dog-leg.jpg
     alt: "Holly plans"
-    title: "Current brainstorming to start working with Holly"
+    title: "Physical prototype for a dog that is missing its paw, attaches rigidly to the leg and supports the roller bottom"
   - url: /assets/images/enable/hands.jpg
     image_path: /assets/images/enable/hands.jpg
     alt: "Training Hands"
     title: "3D printed hands used to teach newcomers the basics of prosthetic building"
+  - url: /assets/images/enable/hokie-a-day.jpg
+    image_path: /assets/images/enable/hokie-a-day.jpg
+    alt: "Hokie a day"
+    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+  - url: /assets/images/enable/enable-presentation.jpg
+    image_path: /assets/images/enable/enable-presentation.jpg
+    alt: "Training Hands"
+    title: "One of the teams I supervise (Mya) presenting about the design requirements for their bike project"
     
 ---
 
@@ -50,7 +54,7 @@ Static Team: An 8 person team dedicated to creating and uploading prosthetic dev
 
 The Mya Team: A 13 person team dedicated to enhancing Maya’s daily life by creating devices that give her exercise and allow her family to interact with her better. Currently, they are working on a bike that gets Maya to exercise as she rides
 
-{% include gallery layout="half" caption="Various parts of what I've done while a part of e-NABLE" %}
+{% include gallery layout="half" caption="Various parts of what I've done while a part of e-NABLE, read captions for more details" %}
 
 
 ## What have I learned from this?
