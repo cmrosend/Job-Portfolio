@@ -45,7 +45,7 @@ The project involves altering the Chevrolet EN-V 2.0 for German markets in 2030.
 ## What have I done?
 I was the team leader for the frame of the car, meaning that I coordinated with other team leads to ensure that everything fit together smoothly. However, since all of us were still getting used to collaborating solely online, there was inevitably some miscommunication when it came to combining the interior, exterior, and frame models. This led to all nighters to fix the issues and I have learned dearly what it means to communicate with a team. Outside of the issues, I worked mainly on researching the safest and lightest way to implement a frame and ended up emulating the smart car in many cases, mainly the addition of crash boxes and the tridion safety shell. Since I was the most experienced in CAD, I worked on the frame model while the rest of the team helped with smaller parts and other aspects of the project. The end design tried to mimic the EN-V's tall windows and small cab, while adding the safety and convenience features we expect from a car in 2030. The results are below, and they won our team first place in the competition between the 2 teams.
 
-{% include gallery caption="Different parts of the process." %}
+{% include gallery caption="Final Models of the car, read caption for more." %}
 
 ## What have I learned from this?
 
