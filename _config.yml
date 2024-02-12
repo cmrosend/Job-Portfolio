@@ -38,7 +38,7 @@ author: Christopher Rosend
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dirt" # "default "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 include: ["_pages"] 
-
+excerpt_separator: <!-- excerpt-end -->
 plugins:
   - jekyll-feed
   - jekyll-include-cache 
