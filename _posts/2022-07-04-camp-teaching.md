@@ -13,32 +13,27 @@ show_date: true
 gallery:
   - url: /assets/images/camp-teaching/kids-playing.jpg
     image_path: /assets/images/camp-teaching/kids-playing.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    title: "These were my happy customers, they were all super excited to see their drawings come to life"
 
   - url: /assets/images/camp-teaching/breathing-fire.jpg
     image_path: /assets/images/camp-teaching/breathing-fire.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "This is a fire breathing dragon that I took more literally in the 2D direction"
 
   - url: /assets/images/camp-teaching/purp.jpg
     image_path: /assets/images/camp-teaching/purp.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "For this guy, It was hardest to recreate his dimple eyes without painting"
 
   - url: /assets/images/camp-teaching/roaring-dragon.jpg
     image_path: /assets/images/camp-teaching/roaring-dragon.jpg
-    title: "Image 2 title caption"
+    title: "I think this was my favorite print because the wings and teeth came out very well"
 
   - url: /assets/images/camp-teaching/spinning-penguin.jpg
     image_path: /assets/images/camp-teaching/spinning-penguin.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "The penguin actually spins and I'm really proud of it"
 
   - url: /assets/images/camp-teaching/all-parts.jpg
     image_path: /assets/images/camp-teaching/all-parts.jpg
-    alt: "Shredder"
-    title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+    title: "This is a full view of one of the tables, there was another one full of more prints"
 
 ---
 
@@ -52,7 +47,7 @@ The talk I gave mainly went over how FFF and resin printing worked, describing t
 
 In total, I made parts for about 25 kids, most of which can be seen in the picture with the table. I took the designs that the kids drew on paper and used either FFF or resin printing as well as Fusion 360 to model and print them. It was a very fun exercise for both brushing up on CAD skills, as well as developing completely new models. Working with abstract concepts allows me to make whatever I want, and one of my favorite ones was the penguin beyblade I got to make. The kids were so excited to see the final parts, but some actually were a little dissapointed when they got it which surprised me. All parts in the pictures below were my favorite to design since they made me learn different techniques for making them.
 
-{% include gallery caption="Various works I have been a part of." %}
+{% include gallery caption="The favorites of what I made." %}
 
 ## What have I learned from this?
 

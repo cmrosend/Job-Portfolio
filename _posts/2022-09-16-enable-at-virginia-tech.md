@@ -27,7 +27,7 @@ gallery:
     image_path: /assets/images/enable/enable-presentation.jpg
     alt: "Training Hands"
     title: "One of the teams I supervise (Mya) presenting about the design requirements for their bike project"
-    
+
 ---
 
 ## What is it?
@@ -38,13 +38,13 @@ e-NABLE is an global community of “Digital Humanitarian” volunteers who use 
 
 I have been part of e-NABLE at Virginia Tech for 3 semesters and have become Chief Engineer in that time. This means that I supervise 3 teams and ensure they stay on track and provide design assistance as needed. In these three years, have worked with three patients so far; A child in Salem named Charli who was missing all four limbs from birth, a girl in Blacksburg named Maya who has a muscle disorder preventing her from doing normal activities, and a Dog named Holly in Ohio who is missing their back leg. We also work with local clinics to develop medical devices for training.
 
-## My work includes:
+<ins>My work includes:</ins>
 
-1. Designing a harness that simulates a thigh to help Holly balance better in the car (Current work).
-2. Replicating the feel of a hand skeleton using 3D printing so surgeons can practice difficult procedures without using cadavers.
-3. Developing a 3D printable neonatal rib cage so that doctors can practice CPR on newborns.
-4. Helping restructure the club in a way that promotes progress, documentation, and comradery.
-5. Working with first-years and teaching them sustainable design principles, ensuring they establish and maintain semester goals, and providing assistance when it comes to next steps.
+* Designing a harness that simulates a thigh to help Holly balance better in the car (Current work).
+* Replicating the feel of a hand skeleton using 3D printing so surgeons can practice difficult procedures without using cadavers.
+* Developing a 3D printable neonatal rib cage so that doctors can practice CPR on newborns.
+* Helping restructure the club in a way that promotes progress, documentation, and comradery.
+* Working with first-years and teaching them sustainable design principles, ensuring they establish and maintain semester goals, and providing assistance when it comes to next steps.
 
 Outside of my direct work, the teams I supervise include:
 

@@ -23,11 +23,11 @@ gallery:
 
   - url: /assets/images/rapid-prototyping/rock.jpg
     image_path: /assets/images/rapid-prototyping/rock.jpg
-    title: "The print of the final project"
+    title: "The print of the final project, made on a Bambu Lab P1S. It was amazing to hold in person but it was way too smooth"
 
   - url: /assets/images/rapid-prototyping/rock-testing.jpg
     image_path: /assets/images/rapid-prototyping/rock-testing.jpg
-    title: "How we tested our rock in practice"
+    title: "How we tested our rock in practice. Essentially we are using a motor lift to stretch a spring and measuring the delta X, then calculating the force based on the spring constant"
 ---
 
 

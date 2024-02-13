@@ -93,6 +93,6 @@ Current progress on solidifying the bags
 
 <ins>Concepts</ins>
 
-If something doesn’t go the way you wanted it to, you should step back and approach it from another angle
-Don’t just assume something is going to work because it would be good if it does
-Making something takes a lot more time and effort than expected
+* If something doesn’t go the way you wanted it to, you should step back and approach it from another angle
+* Don’t just assume something is going to work because it would be good if it does
+* Making something takes a lot more time and effort than expected
