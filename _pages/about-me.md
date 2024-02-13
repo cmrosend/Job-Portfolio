@@ -46,7 +46,7 @@ gallery-me:
 <h1 style="font-size:75px;"> About </h1>
 
 # Myself
-Im Chris, an undergraduate Mechanical Engineering major at Virginia Tech. To say hello or ask me a question, feel free to take a look at my [contact page](/contact.md).
+Im Chris, an undergraduate Mechanical Engineering major at Virginia Tech. To say hello or ask me a question, feel free to take a look at my [contact page](/contact/).
 
 {% include gallery id="gallery-me" %}
 
