@@ -15,9 +15,9 @@ gallery-rock:
   - url: /assets/images/misc/rock-climbing.jpg
     image_path: /assets/images/misc/rock-climbing.jpg
 
-  - url: /assets/images/misc/cutie-climbing.jpg
-    image_path: /assets/images/misc/cutie-climbing.jpg
-    
+  - url: /assets/images/misc/jakeclimb.jpg
+    image_path: /assets/images/misc/jakeclimb.jpg
+
   - url: /assets/images/misc/more-climbing.jpg
     image_path: /assets/images/misc/more-climbing.jpg
 
@@ -31,6 +31,16 @@ gallery-dog:
   - url: /assets/images/misc/sploot-piper.jpg
     image_path: /assets/images/misc/sploot-piper.jpg
 
+gallery-cat:
+  - url: /assets/images/misc/wynnweird.jpg
+    image_path: /assets/images/misc/wynnweird.jpg
+
+  - url: /assets/images/misc/wynnsleep.jpg
+    image_path: /assets/images/misc/wynnsleep.jpg
+
+  - url: /assets/images/misc/wynntoys.jpg
+    image_path: /assets/images/misc/wynntoys.jpg
+
 gallery-me:
   - url: /assets/images/misc/aquarium.jpg
     image_path: /assets/images/misc/aquarium.jpg
@@ -38,8 +48,8 @@ gallery-me:
   - url: /assets/images/misc/night-vision.jpg
     image_path: /assets/images/misc/night-vision.jpg
 
-  - url: /assets/images/misc/hiking.jpg
-    image_path: /assets/images/misc/hiking.jpg
+  - url: /assets/images/misc/reddme.jpg
+    image_path: /assets/images/misc/reddme.jpg
     
 gallery-vinyl:
   - url: /assets/images/misc/record-player.jpg
@@ -48,22 +58,24 @@ gallery-vinyl:
   - url: /assets/images/misc/record-stand.jpg
     image_path: /assets/images/misc/record-stand.jpg
 
-gallery-ball:
-  - url: /assets/images/misc/e-ball.jpg
-    image_path: /assets/images/misc/e-ball.jpg
+gallery-wide:
+  - url: /assets/images/misc/headshot.jpg
+    image_path: /assets/images/misc/headshot.jpg
 
 ---
 
 <h1 style="font-size:75px;"> About </h1>
 
 # Myself
-Im Chris, an undergraduate Mechanical Engineering major at Virginia Tech. To say hello or ask me a question, feel free to take a look at my [contact page](/contact/).
+Im Chris, an graduate from Virginia Tech, majored in Mechanical Engineering. To say hello or ask me a question, feel free to take a look at my [contact page](/contact/).
 
 {% include gallery id="gallery-me" %}
 
-{% include gallery id="gallery-ball" %}
+{% include gallery id="gallery-wide" %}
 
-{% include gallery id="gallery-dog" caption="My doggies Sammy (Black) and Piper (Brindle)" %}
+{% include gallery id="gallery-dog" caption="My doggies at home Sammy (Black) and Piper (Brindle)" %}
+
+{% include gallery id="gallery-cat" caption="My cat Wynn :)" %}
 
 # My Professional Work
 I am currently working my way through a bachelors degree at Virginia Tech and am in my last semester. Going through the curriculum, I've learned that I enjoy being able to apply what I learn in my classes instead of just absorbing it and never using it again. This had led me to my [research in the DREAMS Lab](/2023/08/24/ldpe-recycling.html) and to [e-NABLE at VT](/2022/09/16/enable-at-virginia-tech.html). 
@@ -71,7 +83,7 @@ I am currently working my way through a bachelors degree at Virginia Tech and am
 Compounded with my previous interest in 3D printing, I've decided to try and enter the field of Additive Manufacturing. It interests me the most due to the amount of groundbreaking research still being done to this day, meaning that I could affect the field one day. My current goal is to learn more about AM, whether it is from going to grad school to continue to research, or to get my toes wet in the field directly.
 
 # My Free Time
-In my free time, I've been recently enjoing going indoor rock climbing with my girlfriend. It's something that challenges me and makes me have more trust in myself, plus its really fun. Its so satisfying getting to the top and jumping all the way down, seeing all the progress during the fall. Currently only at a V1-2 level since the gym near me is surprisingly hard.
+In my free time, I've been recently enjoing going indoor rock climbing with my friends. It's something that challenges me and makes me have more trust in myself, plus its really fun. Its so satisfying getting to the top and jumping all the way down, seeing all the progress during the fall. Currently only at a V1-2 level since the gym near me is surprisingly hard.
 
 {% include gallery id="gallery-rock" caption="Rock climbing action shots" %}
 
