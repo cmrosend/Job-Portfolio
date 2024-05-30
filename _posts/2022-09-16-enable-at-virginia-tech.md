@@ -15,18 +15,36 @@ gallery:
     image_path: /assets/images/enable/new-dog-leg.jpg
     alt: "Holly plans"
     title: "Physical prototype for a dog that is missing its paw, attaches rigidly to the leg and supports the roller bottom"
+
   - url: /assets/images/enable/hands.jpg
     image_path: /assets/images/enable/hands.jpg
     alt: "Training Hands"
     title: "3D printed hands used to teach newcomers the basics of prosthetic building"
+
   - url: /assets/images/enable/hokie-a-day.jpg
     image_path: /assets/images/enable/hokie-a-day.jpg
     alt: "Hokie a day"
     title: "This is me attending Hokie a Day, an event where we talk to grade-schoolers about why they should go to college and the fun stuff we do here"
+
+  - url: /assets/images/enable/everyone.png
+    image_path: /assets/images/enable/everyone.png
+    alt: "The whole team"
+    title: "A final photo with everyone in the club"
+    
   - url: /assets/images/enable/enable-presentation.jpg
     image_path: /assets/images/enable/enable-presentation.jpg
     alt: "Training Hands"
     title: "One of the teams I supervise (Mya) presenting about the design requirements for their bike project"
+
+  - url: /assets/images/enable/dog.jpg
+    image_path: /assets/images/enable/dog.jpg
+    alt: "Holly team working"
+    title: "The Holly team constructing the first prototype of the thigh"
+
+  - url: /assets/images/enable/mya.png
+    image_path: /assets/images/enable/mya.png
+    alt: "Mya on bike"
+    title: "This is Mya, the client with static encephalopathy. This bike is to help her exercise her legs muscles more. This photo was given express consent to be posted"
 
 ---
 

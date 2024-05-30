@@ -13,7 +13,7 @@ header:
 
 summary: "Christopher Rosend │ Undergraduate Mechanical Engineer"
 intro: 
-  - summary: '<p style="font-size:25px;"> Hey! I’m Chris, an Undergraduate at Virginia Tech studying Mechanical Engineering. I’m interested in all things additive manufacturing and would love to enter the field once I graduate. This website details the major things I’ve done throughout college as well as my goals, interests, and anything else I feel like throwing on here. </p> 
+  - summary: '<p style="font-size:25px;"> Hey! I’m Chris, a graduate from Virginia Tech, majored in Mechanical Engineering. I’m interested in all things additive manufacturing and would love to enter the field once I graduate. This website details the major things I’ve done throughout college as well as my goals, interests, and anything else I feel like throwing on here. </p> 
 
   <p><a href="/about/" class="btn btn--primary btn--x-large">About Me ➞</a><!-- excerpt-end -->'
   #<h1 style="font-size:100px; font-family: monaco"> Works </h1>
