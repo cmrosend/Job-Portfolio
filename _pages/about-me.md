@@ -78,12 +78,10 @@ Im Chris, an graduate from Virginia Tech, majored in Mechanical Engineering. To 
 {% include gallery id="gallery-cat" caption="My cat Wynn :)" %}
 
 # My Professional Work
-I am currently working my way through a bachelors degree at Virginia Tech and am in my last semester. Going through the curriculum, I've learned that I enjoy being able to apply what I learn in my classes instead of just absorbing it and never using it again. This had led me to my [research in the DREAMS Lab](/2023/08/24/ldpe-recycling.html) and to [e-NABLE at VT](/2022/09/16/enable-at-virginia-tech.html). 
-
-Compounded with my previous interest in 3D printing, I've decided to try and enter the field of Additive Manufacturing. It interests me the most due to the amount of groundbreaking research still being done to this day, meaning that I could affect the field one day. My current goal is to learn more about AM, whether it is from going to grad school to continue to research, or to get my toes wet in the field directly.
+After graduating Virginia Tech, I wanted to do something that would further my knowledge of the additive manufacturing field. That led me to Strategy Milling, a company specializing in milling dental restorations. Learning about the capabilities of milling and its limitations has been valuable as it lets me design parts for 3D printing in ways that are unique to that medium and cannot be recreated any other way. Taking everything I learned from Strategy Milling I am currently looking to apply my knowledge to new roles and learn more about what I want out of career.
 
 # My Free Time
-In my free time, I've been recently enjoing going indoor rock climbing with my friends. It's something that challenges me and makes me have more trust in myself, plus its really fun. Its so satisfying getting to the top and jumping all the way down, seeing all the progress during the fall. Currently only at a V1-2 level since the gym near me is surprisingly hard.
+In my free time, I've been recently enjoing going indoor rock climbing. It's something that challenges me and makes me have more trust in myself, plus its really fun. Its so satisfying getting to the top and jumping all the way down, seeing all the progress during the fall. Currently at a V3 level if anyone is interested in joining me!
 
 {% include gallery id="gallery-rock" caption="Rock climbing action shots" %}
 

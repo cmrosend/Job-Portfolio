@@ -2,12 +2,12 @@
 
 Christopher Rosend:
   name        : "Christopher Rosend"
-  bio         : "Undergraduate at Virginia Tech"
+  bio         : "Virginia Tech Graduate"
   avatar      : "/assets/images/misc/goodpicofmezoom.jpg"
   links:
-    - label: "Fairfax"
+    - label: "Pittsburgh"
       icon: "fa fa-fw fa-globe"
-      url: "https://www.google.com/maps/place/Fairfax,+VA/@38.852276,-77.3224375,14z/data=!3m1!4b1!4m6!3m5!1s0x89b64e96394b91cd:0x72326e785448640!8m2!3d38.8462236!4d-77.3063733!16zL20vMG1uemQ?entry=ttu"
+      url: "https://www.google.com/maps/place/Bellevue,+PA+15202/@40.4951747,-80.0759865,14z/data=!3m1!4b1!4m6!3m5!1s0x8834f512182f92bd:0xb8ff36c6f3816693!8m2!3d40.4939576!4d-80.0517215!16zL20vMHpoNWY?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D"
 
     - label: "cmrosend.pro"
       icon: "fa fa-fw fa-link"
@@ -21,6 +21,3 @@ Christopher Rosend:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christopher-rosend/"
 
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cmrosend"
